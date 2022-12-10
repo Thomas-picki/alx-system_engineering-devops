@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#script used to conecte
+ssh -i ~/.ssh/school
